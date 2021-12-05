@@ -1,0 +1,16 @@
+{
+  "name": "first-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "is-number": "^7.0.0"
+  }
+}
